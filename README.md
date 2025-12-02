@@ -207,6 +207,10 @@ Feel free to fork this project and add your own features! Some suggestions:
 - Add task timestamps
 - Implement task archiving instead of deletion
 
+## 👨‍💻 Author
+
+Created by **Ifeoluwa Afolabi**
+
 ## 📄 License
 
 This is a simple educational project. Feel free to use, modify, and distribute as you wish!
